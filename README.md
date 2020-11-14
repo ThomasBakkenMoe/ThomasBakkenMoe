@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 📫 How to reach me **thomasbakkenmoe@gmail.com**
+- 📫 How to reach me: **thomasbakkenmoe@gmail.com**
 
 - ⚡ Fun fact **I got bit by the programmer bug while doing 3D arts and VFX studies**
 
