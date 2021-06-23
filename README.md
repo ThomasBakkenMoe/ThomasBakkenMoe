@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasbakkenmoe" alt="thomasbakkenmoe" /> </p>
 
-- 🔭 I’m currently working on **School stuff 📚**
+- 🔭 I’m currently working on **new products for Signicat**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **Product cloud deployment**
 
 - 📫 How to reach me: **thomasbakkenmoe@gmail.com**
 
