@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **new products for Signicat**
 
-- 🌱 I’m currently learning **Product cloud deployment**
+- 🌱 I’m currently studying **AI** and **NTNU**
 
 - 📫 How to reach me: **thomasbakkenmoe@gmail.com**
 
