@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **new products for Signicat**
 
-- 🌱 I’m currently studying **Informatics** at **NTNU**
+- 🌱 I’m currently studying for **Informatics Master degree** at **NTNU**
 
 - 📫 How to reach me: **thomasbakkenmoe@gmail.com**
 
