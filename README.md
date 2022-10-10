@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasbakkenmoe" alt="thomasbakkenmoe" /> </p>
 
-- 🔭 I’m currently working on **new products for Signicat**
+- 🎓 Bachelor’s degree in Computer Engineering at NTNU Trondheim (2018-2021)
 
-- 🌱 I’m currently studying for **Informatics Master degree** at **NTNU**
+- 🌱 I’m currently studying for a **Informatics Master degree** at **NTNU** (2021-)
+
+- 🔭 I’m currently working on **a birthday gift for a couple of friends**
+
+- 🔭 For my bachelor project, I worked on Digital Evidence Management, a product for Signicat, see [here](https://www.signicat.com/products/digital-evidence-management).
 
 - 📫 How to reach me: **thomasbakkenmoe@gmail.com**
 
